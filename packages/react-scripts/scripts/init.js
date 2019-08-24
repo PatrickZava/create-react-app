@@ -219,6 +219,9 @@ module.exports = function(
 
   console.log();
   console.log(`Success! Created ${appName} at ${appPath}`);
+  console.log(
+    'Projeto criado com REACT-TEMPLATE-WEB: https://www.npmjs.com/package/react-template-web'
+  );
   console.log('Inside that directory, you can run several commands:');
   console.log();
   console.log(chalk.cyan(`  ${displayedCommand} start`));

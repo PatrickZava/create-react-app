@@ -5,3 +5,20 @@ Please refer to its documentation:
 
 - [Getting Started](https://facebook.github.io/create-react-app/docs/getting-started) – How to create a new app.
 - [User Guide](https://facebook.github.io/create-react-app/) – How to develop apps bootstrapped with Create React App.
+
+### Dependencies:
+
+- axios
+- babel-eslint
+- eslint
+- eslint-config-prettier
+- eslint-plugin-prettier
+- prettier
+- react-router-dom
+- styled-components <br>
+
+## Installation
+
+```sh
+npx create-react-app my-app --scripts-version reactjs-template-web
+```

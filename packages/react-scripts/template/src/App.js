@@ -10,7 +10,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          projeto criado utilizando REACTJS-TEMPLATE-WEB
+          projeto criado utilizando <b>template-web-react</b>
         </a>
       </header>
     </div>

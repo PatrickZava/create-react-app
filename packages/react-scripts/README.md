@@ -1,4 +1,4 @@
-# react-scripts
+# template-web-react
 
 This package includes scripts and configuration used by [Create React App](https://github.com/facebook/create-react-app).<br>
 Please refer to its documentation:
@@ -9,8 +9,6 @@ Please refer to its documentation:
 ### Dependencies:
 
 - axios
-- babel-eslint
-- eslint
 - eslint-config-prettier
 - eslint-plugin-prettier
 - prettier
@@ -20,5 +18,5 @@ Please refer to its documentation:
 ## Installation
 
 ```sh
-npx create-react-app my-app --scripts-version reactjs-template-web
+npx create-react-app my-app --scripts-version template-web-react
 ```
